@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://lakesidesportclub.com"><img src="assets/hero.svg" width="100%" alt="Lakeside Sport Club: for sport, leisure, and everything after. Animated cover with the pennant logo and headline on ivory beside a dusk lake scene with a drifting sailboat, a waving club pennant, and the Lakeside crest." /></a>
+  <a href="https://lakesidesportclub.com"><img src="assets/hero.gif" width="100%" alt="Lakeside Sport Club — for sport, leisure, and everything after. Decorative animated cover: the pennant logo and headline on ivory beside the club shield over gently moving lake lines." /></a>
 </p>
 
 <h1 align="center">Lakeside Sport Club</h1>
